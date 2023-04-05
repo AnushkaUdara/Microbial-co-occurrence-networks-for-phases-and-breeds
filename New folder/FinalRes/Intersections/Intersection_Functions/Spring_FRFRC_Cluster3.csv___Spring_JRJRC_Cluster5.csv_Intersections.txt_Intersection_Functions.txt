@@ -1,0 +1,4 @@
+"Genus" "Function"
+"1" "Rothia" "chemoheterotrophy"
+"2" "Rothia" "fermentation"
+"3" "Rothia" "nitrate_reduction"

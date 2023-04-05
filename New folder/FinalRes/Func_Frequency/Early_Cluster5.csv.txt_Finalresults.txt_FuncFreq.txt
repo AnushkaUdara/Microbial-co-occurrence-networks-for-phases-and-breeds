@@ -1,0 +1,9 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 53
+"chemoheterotrophy" 75
+"dark_hydrogen_oxidation" 3
+"fermentation" 16
+"methanol_oxidation" 6
+"methylotrophy" 6
+"nitrate_reduction" 25
+"ureolysis" 5

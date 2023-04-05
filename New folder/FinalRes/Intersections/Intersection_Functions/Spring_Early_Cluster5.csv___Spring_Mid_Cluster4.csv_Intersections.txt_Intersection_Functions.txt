@@ -1,0 +1,3 @@
+"Genus" "Function"
+"1" "Wautersiella" "aerobic_chemoheterotrophy"
+"2" "Wautersiella" "chemoheterotrophy"

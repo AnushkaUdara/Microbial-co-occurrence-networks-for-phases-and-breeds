@@ -1,0 +1,5 @@
+"Genus" "Function"
+"1" "Kribbia" "nitrate_reduction"
+"2" "Flavobacterium" "aerobic_chemoheterotrophy"
+"3" "Flavobacterium" "chemoheterotrophy"
+"4" "Flavobacterium" "xylanolysis"

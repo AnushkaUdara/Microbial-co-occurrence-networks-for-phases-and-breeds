@@ -1,0 +1,8 @@
+"Var1" "Freq"
+"animal_parasites_or_symbionts" 92
+"chemoheterotrophy" 45
+"fermentation" 45
+"human_associated" 17
+"human_gut" 17
+"mammal_gut" 17
+"xylanolysis" 5

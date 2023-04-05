@@ -1,0 +1,7 @@
+"Genus" "Function"
+"1" "Alistipes" "chemoheterotrophy"
+"2" "Alistipes" "fermentation"
+"3" "Pediococcus" "chemoheterotrophy"
+"4" "Pediococcus" "fermentation"
+"5" "Acholeplasma" "aerobic_chemoheterotrophy"
+"6" "Acholeplasma" "chemoheterotrophy"

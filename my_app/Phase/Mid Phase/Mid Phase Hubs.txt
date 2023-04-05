@@ -1,0 +1,11 @@
+Millisia
+Atopococcus
+Atopostipes
+Granulicatella
+Helcococcus
+ph2
+Bacteria_Firmicutes_Clostridia_Clostridiales_Lachnospiraceae_Ruminococcus
+[Clostridium]
+Bacteria_Firmicutes_Clostridia_Clostridiales_Peptostreptococcaceae_Clostridium
+Bacteria_Firmicutes_Clostridia_Clostridiales_Ruminococcaceae_Clostridium
+Papillibacter

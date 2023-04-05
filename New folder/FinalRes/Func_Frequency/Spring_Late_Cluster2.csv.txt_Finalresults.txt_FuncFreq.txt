@@ -1,0 +1,16 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 24
+"animal_parasites_or_symbionts" 2
+"chemoheterotrophy" 89
+"fermentation" 65
+"human_associated" 2
+"human_pathogens_all" 2
+"nitrate_ammonification" 31
+"nitrate_reduction" 84
+"nitrate_respiration" 31
+"nitrite_ammonification" 31
+"nitrite_respiration" 31
+"nitrogen_respiration" 31
+"reductive_acetogenesis" 23
+"ureolysis" 34
+"xylanolysis" 1

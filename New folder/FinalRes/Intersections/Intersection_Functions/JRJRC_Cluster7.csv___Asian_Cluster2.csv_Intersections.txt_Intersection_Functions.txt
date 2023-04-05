@@ -1,0 +1,6 @@
+"Genus" "Function"
+"1" "Bordetella" "animal_parasites_or_symbionts"
+"2" "Xanthobacter" "aerobic_chemoheterotrophy"
+"3" "Xanthobacter" "chemoheterotrophy"
+"4" "Xanthobacter" "dark_hydrogen_oxidation"
+"5" "Xanthobacter" "nitrogen_fixation"

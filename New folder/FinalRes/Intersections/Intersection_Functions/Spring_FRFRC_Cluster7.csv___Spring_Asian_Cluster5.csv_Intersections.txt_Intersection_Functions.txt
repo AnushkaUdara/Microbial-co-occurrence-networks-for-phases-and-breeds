@@ -1,0 +1,3 @@
+"Genus" "Function"
+"1" "Olsenella" "chemoheterotrophy"
+"2" "Olsenella" "fermentation"

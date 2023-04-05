@@ -1,0 +1,2 @@
+"Genus" "Function"
+"1" "Deinococcus" "nitrate_reduction"

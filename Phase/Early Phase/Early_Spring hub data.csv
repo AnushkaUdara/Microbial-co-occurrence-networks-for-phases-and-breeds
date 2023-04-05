@@ -1,0 +1,6 @@
+"index","lable","cluster","degree","ev","between","close"
+12,"Micrococcus",4,10,0.720065533560274,0.121563573883162,0.58490879813634
+19,"Succinispira",8,10,0.981576344547116,0.0912800687285223,0.602479749456882
+21,"Bacteria_Firmicutes_Clostridia_Clostridiales_Ruminococcaceae_Clostridium",8,9,1,0.0949312714776632,0.60924722932748
+42,"Bacteria_Firmicutes_Clostridia_Clostridiales_Lachnospiraceae_Clostridium",8,9,0.903683064320128,0.0515463917525773,0.562660210813586
+88,"Oscillospira",8,7,0.69540999254943,0.0637886597938144,0.556064332983263

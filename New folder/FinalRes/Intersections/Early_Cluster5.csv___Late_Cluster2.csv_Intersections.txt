@@ -1,0 +1,4 @@
+"Deinococcus"
+"Sphingobium"
+"Bergeyella"
+"Deinobacterium"

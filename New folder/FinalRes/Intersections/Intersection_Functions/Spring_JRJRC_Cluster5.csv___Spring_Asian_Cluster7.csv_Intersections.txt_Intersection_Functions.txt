@@ -1,0 +1,4 @@
+"Genus" "Function"
+"1" "Rheinheimera" "aerobic_chemoheterotrophy"
+"2" "Rheinheimera" "chemoheterotrophy"
+"3" "Rheinheimera" "nitrate_reduction"

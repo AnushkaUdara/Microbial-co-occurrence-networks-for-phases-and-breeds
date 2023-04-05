@@ -1,0 +1,5 @@
+"Bacteria_Firmicutes_Clostridia_Clostridiales_Ruminococcaceae_Clostridium"
+"[Clostridium]"
+"Lactobacillus"
+"Anaerobiospirillum"
+"Selenomonas"

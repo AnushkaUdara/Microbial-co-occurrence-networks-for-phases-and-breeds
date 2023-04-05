@@ -1,0 +1,9 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 156
+"animal_parasites_or_symbionts" 75
+"aromatic_compound_degradation" 65
+"chemoheterotrophy" 190
+"fermentation" 34
+"nitrate_reduction" 34
+"predatory_or_exoparasitic" 14
+"xylanolysis" 6

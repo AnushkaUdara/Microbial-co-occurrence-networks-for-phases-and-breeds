@@ -1,0 +1,6 @@
+"Genus" "Function"
+"1" "Kocuria" "aerobic_chemoheterotrophy"
+"2" "Kocuria" "chemoheterotrophy"
+"3" "Acholeplasma" "aerobic_chemoheterotrophy"
+"4" "Acholeplasma" "chemoheterotrophy"
+"5" "Oscillospira" "mammal_gut"

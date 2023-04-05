@@ -1,0 +1,6 @@
+"Genus" "Function"
+"1" "Elizabethkingia" "aerobic_chemoheterotrophy"
+"2" "Elizabethkingia" "chemoheterotrophy"
+"3" "Alkanindiges" "chemoheterotrophy"
+"4" "Alkanindiges" "aliphatic_non_methane_hydrocarbon_degradation"
+"5" "Alkanindiges" "hydrocarbon_degradation"

@@ -1,0 +1,6 @@
+"Streptococcus"
+"Elizabethkingia"
+"Bordetella"
+"Ochrobactrum"
+"Albidovulum"
+"Porphyrobacter"

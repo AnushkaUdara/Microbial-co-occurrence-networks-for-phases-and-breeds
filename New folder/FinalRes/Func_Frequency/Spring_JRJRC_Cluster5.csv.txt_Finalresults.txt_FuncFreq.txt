@@ -1,0 +1,13 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 121
+"animal_parasites_or_symbionts" 7
+"chemoheterotrophy" 190
+"chitinolysis" 46
+"dark_hydrogen_oxidation" 3
+"fermentation" 24
+"human_associated" 7
+"human_gut" 7
+"mammal_gut" 7
+"methanol_oxidation" 6
+"methylotrophy" 6
+"nitrate_reduction" 27

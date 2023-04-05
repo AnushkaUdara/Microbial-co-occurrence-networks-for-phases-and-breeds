@@ -1,0 +1,5 @@
+"Genus" "Function"
+"1" "Weissella" "chemoheterotrophy"
+"2" "Weissella" "fermentation"
+"3" "Papillibacter" "aromatic_compound_degradation"
+"4" "Papillibacter" "chemoheterotrophy"

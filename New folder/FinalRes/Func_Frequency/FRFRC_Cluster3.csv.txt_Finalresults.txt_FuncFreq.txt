@@ -1,0 +1,8 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 56
+"animal_parasites_or_symbionts" 45
+"chemoheterotrophy" 221
+"fermentation" 165
+"human_associated" 45
+"human_gut" 45
+"mammal_gut" 45

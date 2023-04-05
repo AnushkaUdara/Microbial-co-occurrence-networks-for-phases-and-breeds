@@ -1,0 +1,3 @@
+"Genus" "Function"
+"1" "Weissella" "chemoheterotrophy"
+"2" "Weissella" "fermentation"

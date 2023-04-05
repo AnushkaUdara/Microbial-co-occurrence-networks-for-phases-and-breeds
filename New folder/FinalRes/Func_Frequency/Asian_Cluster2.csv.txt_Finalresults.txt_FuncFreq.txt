@@ -1,0 +1,17 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 308
+"animal_parasites_or_symbionts" 97
+"aromatic_compound_degradation" 70
+"chemoheterotrophy" 452
+"dark_hydrogen_oxidation" 1
+"fermentation" 144
+"human_associated" 71
+"human_pathogens_all" 71
+"human_pathogens_diarrhea" 5
+"human_pathogens_meningitis" 66
+"human_pathogens_septicemia" 66
+"invertebrate_parasites" 5
+"nitrate_reduction" 57
+"nitrogen_fixation" 1
+"reductive_acetogenesis" 23
+"ureolysis" 6

@@ -1,0 +1,17 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 14
+"animal_parasites_or_symbionts" 16
+"aromatic_compound_degradation" 26
+"chemoheterotrophy" 85
+"fermentation" 71
+"fumarate_respiration" 1
+"human_associated" 8
+"human_gut" 1
+"human_pathogens_all" 7
+"human_pathogens_meningitis" 1
+"human_pathogens_septicemia" 1
+"mammal_gut" 1
+"nitrate_reduction" 5
+"nitrate_respiration" 1
+"nitrogen_respiration" 1
+"xylanolysis" 1

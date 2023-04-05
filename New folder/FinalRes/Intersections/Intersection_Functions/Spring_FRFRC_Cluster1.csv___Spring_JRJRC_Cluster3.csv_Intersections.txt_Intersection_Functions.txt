@@ -1,0 +1,5 @@
+"Genus" "Function"
+"1" "Arthrobacter" "ureolysis"
+"2" "Novosphingobium" "aerobic_chemoheterotrophy"
+"3" "Novosphingobium" "chemoheterotrophy"
+"4" "Deinococcus" "nitrate_reduction"

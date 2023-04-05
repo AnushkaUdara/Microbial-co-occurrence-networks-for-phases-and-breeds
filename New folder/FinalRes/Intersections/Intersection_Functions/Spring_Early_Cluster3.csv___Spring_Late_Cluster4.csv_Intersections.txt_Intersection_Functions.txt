@@ -1,0 +1,6 @@
+"Genus" "Function"
+"1" "Acinetobacter" "aerobic_chemoheterotrophy"
+"2" "Acinetobacter" "aromatic_compound_degradation"
+"3" "Acinetobacter" "chemoheterotrophy"
+"4" "Dietzia" "aerobic_chemoheterotrophy"
+"5" "Dietzia" "chemoheterotrophy"

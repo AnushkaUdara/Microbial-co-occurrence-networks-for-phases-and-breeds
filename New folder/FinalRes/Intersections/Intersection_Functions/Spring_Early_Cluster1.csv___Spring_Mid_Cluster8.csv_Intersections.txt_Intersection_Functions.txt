@@ -1,0 +1,3 @@
+"Genus" "Function"
+"1" "Pediococcus" "chemoheterotrophy"
+"2" "Pediococcus" "fermentation"

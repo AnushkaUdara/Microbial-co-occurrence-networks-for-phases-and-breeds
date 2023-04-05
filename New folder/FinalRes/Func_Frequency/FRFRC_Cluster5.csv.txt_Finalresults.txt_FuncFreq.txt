@@ -1,0 +1,5 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 14
+"chemoheterotrophy" 14
+"nitrate_reduction" 4
+"xylanolysis" 1

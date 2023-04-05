@@ -1,0 +1,7 @@
+"Bacteria_Firmicutes_Clostridia_Clostridiales_Lachnospiraceae_Ruminococcus"
+"[Clostridium]"
+"Roseburia"
+"Sporobacter"
+"Lactonifactor"
+"Macellibacteroides"
+"Akkermansia"

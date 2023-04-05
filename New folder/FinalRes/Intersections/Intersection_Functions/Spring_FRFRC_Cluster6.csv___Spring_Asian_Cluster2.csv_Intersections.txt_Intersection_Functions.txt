@@ -1,0 +1,5 @@
+"Genus" "Function"
+"1" "Prevotella" "animal_parasites_or_symbionts"
+"2" "Prevotella" "chemoheterotrophy"
+"3" "Prevotella" "fermentation"
+"4" "Prevotella" "xylanolysis"

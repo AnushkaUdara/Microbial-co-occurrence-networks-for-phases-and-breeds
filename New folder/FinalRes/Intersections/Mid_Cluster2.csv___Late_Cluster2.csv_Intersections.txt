@@ -1,0 +1,8 @@
+"Rothia"
+"Staphylococcus"
+"Deinococcus"
+"Weissella"
+"Papillibacter"
+"Caldimonas"
+"Isobaculum"
+"Akkermansia"

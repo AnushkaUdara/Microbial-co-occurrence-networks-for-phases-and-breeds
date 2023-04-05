@@ -1,0 +1,3 @@
+"Genus" "Function"
+"1" "Psychrobacter" "aerobic_chemoheterotrophy"
+"2" "Psychrobacter" "chemoheterotrophy"

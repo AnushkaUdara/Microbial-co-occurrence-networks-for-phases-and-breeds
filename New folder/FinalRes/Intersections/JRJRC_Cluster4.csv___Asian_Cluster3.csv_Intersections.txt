@@ -1,0 +1,7 @@
+"Macrococcus"
+"Corynebacterium"
+"Millisia"
+"Bacteria_Firmicutes_Clostridia_Clostridiales_Clostridiaceae_Clostridium"
+"Bacteria_Firmicutes_Clostridia_Clostridiales_Peptostreptococcaceae_Clostridium"
+"Sporobacter"
+"Wautersiella"

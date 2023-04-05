@@ -1,0 +1,12 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 101
+"aliphatic_non_methane_hydrocarbon_degradation" 25
+"animal_parasites_or_symbionts" 141
+"chemoheterotrophy" 250
+"fermentation" 124
+"human_associated" 66
+"human_pathogens_all" 66
+"human_pathogens_meningitis" 66
+"human_pathogens_septicemia" 66
+"hydrocarbon_degradation" 25
+"xylanolysis" 5

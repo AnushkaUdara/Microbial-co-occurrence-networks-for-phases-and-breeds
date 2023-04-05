@@ -1,0 +1,12 @@
+"index","lable","cluster","hubs","degree"
+1,"Streptococcus",1,0,0.0101010101010101
+2,"Arthrobacter",2,1,0.0202020202020202
+3,"Kocuria",2,0,0.0202020202020202
+4,"Enhydrobacter",2,1,0.0707070707070707
+5,"Elizabethkingia",1,1,0.0404040404040404
+6,"Acinetobacter",1,1,0.0202020202020202
+7,"Rhizobium",1,1,0.0202020202020202
+8,"Bordetella",3,0,0
+9,"Ochrobactrum",3,0,0
+10,"Aeromonas",2,0,0.0101010101010101
+11,"Bacteria_Proteobacteria_Gammaproteobacteria_Pseudomonadales_Pseudomonadaceae_Pseudomonas",2,0,0.0101010101010101

@@ -1,0 +1,5 @@
+"Genus" "Function"
+"1" "Helcobacillus" "aerobic_chemoheterotrophy"
+"2" "Helcobacillus" "chemoheterotrophy"
+"3" "Lysobacter" "chemoheterotrophy"
+"4" "Lysobacter" "chitinolysis"

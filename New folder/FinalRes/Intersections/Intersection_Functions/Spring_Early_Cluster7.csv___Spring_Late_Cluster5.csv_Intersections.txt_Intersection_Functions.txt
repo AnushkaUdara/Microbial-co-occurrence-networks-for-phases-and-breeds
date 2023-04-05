@@ -1,0 +1,7 @@
+"Genus" "Function"
+"1" "Bifidobacterium" "animal_parasites_or_symbionts"
+"2" "Bifidobacterium" "chemoheterotrophy"
+"3" "Bifidobacterium" "fermentation"
+"4" "Bifidobacterium" "human_associated"
+"5" "Bifidobacterium" "human_gut"
+"6" "Bifidobacterium" "mammal_gut"

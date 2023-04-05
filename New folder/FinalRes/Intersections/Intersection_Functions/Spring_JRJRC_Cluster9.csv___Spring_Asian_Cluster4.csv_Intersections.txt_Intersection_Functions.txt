@@ -1,0 +1,5 @@
+"Genus" "Function"
+"1" "Xanthobacter" "aerobic_chemoheterotrophy"
+"2" "Xanthobacter" "chemoheterotrophy"
+"3" "Xanthobacter" "dark_hydrogen_oxidation"
+"4" "Xanthobacter" "nitrogen_fixation"

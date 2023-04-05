@@ -1,0 +1,4 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 4
+"chemoheterotrophy" 6
+"fermentation" 2

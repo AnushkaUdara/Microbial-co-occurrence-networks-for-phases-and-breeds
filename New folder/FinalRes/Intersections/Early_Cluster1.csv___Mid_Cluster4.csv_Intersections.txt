@@ -1,0 +1,8 @@
+"Succinispira"
+"Bacteria_Firmicutes_Clostridia_Clostridiales_Ruminococcaceae_Clostridium"
+"Roseburia"
+"Alistipes"
+"[Clostridium]"
+"Bacteria_Firmicutes_Clostridia_Clostridiales_Lachnospiraceae_Clostridium"
+"Prevotella"
+"CF231"

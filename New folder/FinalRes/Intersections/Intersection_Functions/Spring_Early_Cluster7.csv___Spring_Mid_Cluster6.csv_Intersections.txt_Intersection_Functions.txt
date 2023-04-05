@@ -1,0 +1,5 @@
+"Genus" "Function"
+"1" "Anaerobiospirillum" "chemoheterotrophy"
+"2" "Anaerobiospirillum" "fermentation"
+"3" "Succinivibrio" "fermentation"
+"4" "Succinivibrio" "chemoheterotrophy"

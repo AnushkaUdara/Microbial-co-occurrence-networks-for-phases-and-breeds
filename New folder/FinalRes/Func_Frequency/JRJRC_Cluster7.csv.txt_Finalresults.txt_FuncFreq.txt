@@ -1,0 +1,12 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 41
+"aliphatic_non_methane_hydrocarbon_degradation" 25
+"animal_parasites_or_symbionts" 25
+"chemoheterotrophy" 91
+"dark_hydrogen_oxidation" 1
+"fermentation" 25
+"human_associated" 9
+"human_pathogens_all" 9
+"hydrocarbon_degradation" 25
+"nitrogen_fixation" 1
+"predatory_or_exoparasitic" 14

@@ -1,0 +1,8 @@
+"Genus" "Function"
+"1" "Helcobacillus" "aerobic_chemoheterotrophy"
+"2" "Helcobacillus" "chemoheterotrophy"
+"3" "Ornithinimicrobium" "aerobic_chemoheterotrophy"
+"4" "Ornithinimicrobium" "chemoheterotrophy"
+"5" "Ornithinimicrobium" "nitrate_reduction"
+"6" "Dietzia" "aerobic_chemoheterotrophy"
+"7" "Dietzia" "chemoheterotrophy"

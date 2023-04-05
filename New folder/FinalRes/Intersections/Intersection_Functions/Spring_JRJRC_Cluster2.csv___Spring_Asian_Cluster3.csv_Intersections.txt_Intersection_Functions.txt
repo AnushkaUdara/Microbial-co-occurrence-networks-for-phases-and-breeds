@@ -1,0 +1,5 @@
+"Genus" "Function"
+"1" "Collinsella" "chemoheterotrophy"
+"2" "Collinsella" "fermentation"
+"3" "Wautersiella" "aerobic_chemoheterotrophy"
+"4" "Wautersiella" "chemoheterotrophy"

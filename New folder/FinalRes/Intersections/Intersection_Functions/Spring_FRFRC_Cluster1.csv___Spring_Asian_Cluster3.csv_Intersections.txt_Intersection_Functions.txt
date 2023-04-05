@@ -1,0 +1,3 @@
+"Genus" "Function"
+"1" "Sphingomonas" "aerobic_chemoheterotrophy"
+"2" "Sphingomonas" "chemoheterotrophy"

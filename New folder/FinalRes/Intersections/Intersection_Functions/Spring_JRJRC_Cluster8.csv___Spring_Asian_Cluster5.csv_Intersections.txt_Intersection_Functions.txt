@@ -1,0 +1,5 @@
+"Genus" "Function"
+"1" "Alistipes" "chemoheterotrophy"
+"2" "Alistipes" "fermentation"
+"3" "Papillibacter" "aromatic_compound_degradation"
+"4" "Papillibacter" "chemoheterotrophy"

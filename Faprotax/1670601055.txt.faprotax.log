@@ -1,0 +1,42 @@
+/var/www/html/ImageGP/Public/ehbio/bin/FAPROTAX_1.2.4/collapse_table.py:208: SyntaxWarning: "is not" with a literal. Did you mean "!="?
+  return (s.lower() is not 'nan') and is_number(s);
+  Reading input table..
+  Read 10918 rows and 82 columns from .biom file '/var/www/html/ImageGP/Public/source/FAPROTAX/1670601055.txt.tax.biom'
+  Reading groups..
+  Read 9067 lines from groups file, found 92 groups with 8312 members (5044 unique members)
+  Assigning rows to groups..
+  Collapsing table..
+  Note: No entry found for group 'acetoclastic_methanogenesis'
+  Note: No entry found for group 'methanogenesis_using_formate'
+  Note: No entry found for group 'methanogenesis_by_reduction_of_methyl_compounds_with_H2'
+  Note: No entry found for group 'arsenate_detoxification'
+  Note: No entry found for group 'arsenate_respiration'
+  Note: No entry found for group 'dissimilatory_arsenate_reduction'
+  Note: No entry found for group 'arsenite_oxidation_detoxification'
+  Note: No entry found for group 'arsenite_oxidation_energy_yielding'
+  Note: No entry found for group 'dissimilatory_arsenite_oxidation'
+  Note: No entry found for group 'anammox'
+  Note: No entry found for group 'knallgas_bacteria'
+  Note: No entry found for group 'manganese_oxidation'
+  Note: No entry found for group 'ligninolysis'
+  Note: No entry found for group 'human_pathogens_pneumonia'
+  Note: No entry found for group 'human_pathogens_nosocomia'
+  Note: No entry found for group 'human_pathogens_gastroenteritis'
+  Note: No entry found for group 'fish_parasites'
+  Note: No entry found for group 'oil_bioremediation'
+  Note: No entry found for group 'chlorate_reducers'
+  Note: No entry found for group 'nonphotosynthetic_cyanobacteria'
+  Note: No entry found for group 'anoxygenic_photoautotrophy_H2_oxidizing'
+  Note: No entry found for group 'anoxygenic_photoautotrophy_Fe_oxidizing'
+  Assigned 2702 records to groups, 8216 records were leftovers
+  Writing collapsed table '/var/www/html/ImageGP/Public/source/FAPROTAX/1670601055.txt.faprotax.xls'..
+  Writing report '/var/www/html/ImageGP/Public/source/FAPROTAX/1670601055.txt.faprotax.report.xls'..
+Start time is 2022-12-09 23:51:21
+Input file is /var/www/html/ImageGP/Public/source/FAPROTAX/1670601055.txt.faprotax.report.clean.xls
+Output file is /var/www/html/ImageGP/Public/source/FAPROTAX/1670601055.txt.faprotax.report.clean
+OTU功能注释列表: /var/www/html/ImageGP/Public/source/FAPROTAX/1670601055.txt.faprotax.report.clean.otu_func
+功能包含OTU列表: /var/www/html/ImageGP/Public/source/FAPROTAX/1670601055.txt.faprotax.report.clean.func_otu
+OTU功能有无矩阵: /var/www/html/ImageGP/Public/source/FAPROTAX/1670601055.txt.faprotax.report.clean.mat
+End time is 2022-12-09 23:51:21
+This compute totally consumed 0 s.
+  adding: 1670601055.txt.faprotax.log

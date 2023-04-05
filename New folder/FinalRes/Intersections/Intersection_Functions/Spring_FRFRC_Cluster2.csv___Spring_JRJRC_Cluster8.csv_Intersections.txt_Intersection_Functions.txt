@@ -1,0 +1,7 @@
+"Genus" "Function"
+"1" "Roseburia" "animal_parasites_or_symbionts"
+"2" "Roseburia" "chemoheterotrophy"
+"3" "Roseburia" "fermentation"
+"4" "Roseburia" "human_associated"
+"5" "Roseburia" "human_gut"
+"6" "Roseburia" "mammal_gut"

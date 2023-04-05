@@ -1,0 +1,4 @@
+"Genus" "Function"
+"1" "Arthrobacter" "ureolysis"
+"2" "Dietzia" "aerobic_chemoheterotrophy"
+"3" "Dietzia" "chemoheterotrophy"

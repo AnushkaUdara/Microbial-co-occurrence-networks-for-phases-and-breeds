@@ -1,0 +1,8 @@
+"Genus" "Function"
+"1" "Rothia" "chemoheterotrophy"
+"2" "Rothia" "fermentation"
+"3" "Rothia" "nitrate_reduction"
+"4" "Succinispira" "chemoheterotrophy"
+"5" "Succinispira" "fermentation"
+"6" "Barnesiella" "chemoheterotrophy"
+"7" "Barnesiella" "fermentation"

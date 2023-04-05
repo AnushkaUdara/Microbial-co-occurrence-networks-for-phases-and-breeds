@@ -1,0 +1,7 @@
+"Streptococcus"
+"Elizabethkingia"
+"Enhydrobacter"
+"Kocuria"
+"Acinetobacter"
+"Alkanindiges"
+"Rhizobium"

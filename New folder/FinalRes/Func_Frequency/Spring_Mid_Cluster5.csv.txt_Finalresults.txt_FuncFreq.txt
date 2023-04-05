@@ -1,0 +1,6 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 155
+"aromatic_compound_degradation" 65
+"chemoheterotrophy" 155
+"nitrate_reduction" 34
+"ureolysis" 5

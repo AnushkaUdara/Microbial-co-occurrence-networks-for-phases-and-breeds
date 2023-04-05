@@ -1,0 +1,3 @@
+"Genus" "Function"
+"1" "Dietzia" "aerobic_chemoheterotrophy"
+"2" "Dietzia" "chemoheterotrophy"

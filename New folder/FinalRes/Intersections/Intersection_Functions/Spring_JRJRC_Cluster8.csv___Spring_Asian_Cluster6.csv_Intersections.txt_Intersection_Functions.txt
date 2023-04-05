@@ -1,0 +1,4 @@
+"Genus" "Function"
+"1" "Sporobacter" "aromatic_compound_degradation"
+"2" "Sporobacter" "chemoheterotrophy"
+"3" "Sporobacter" "fermentation"

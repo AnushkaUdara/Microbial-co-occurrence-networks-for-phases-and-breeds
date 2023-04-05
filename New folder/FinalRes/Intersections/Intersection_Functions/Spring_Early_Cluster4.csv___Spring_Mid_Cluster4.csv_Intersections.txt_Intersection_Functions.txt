@@ -1,0 +1,6 @@
+"Genus" "Function"
+"1" "Flavobacterium" "aerobic_chemoheterotrophy"
+"2" "Flavobacterium" "chemoheterotrophy"
+"3" "Flavobacterium" "xylanolysis"
+"4" "Psychrobacter" "aerobic_chemoheterotrophy"
+"5" "Psychrobacter" "chemoheterotrophy"

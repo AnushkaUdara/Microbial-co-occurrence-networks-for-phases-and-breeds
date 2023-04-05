@@ -1,0 +1,8 @@
+"Genus" "Function"
+"1" "Ornithinimicrobium" "aerobic_chemoheterotrophy"
+"2" "Ornithinimicrobium" "chemoheterotrophy"
+"3" "Ornithinimicrobium" "nitrate_reduction"
+"4" "Nocardioides" "aerobic_chemoheterotrophy"
+"5" "Nocardioides" "aromatic_compound_degradation"
+"6" "Nocardioides" "chemoheterotrophy"
+"7" "Nocardioides" "nitrate_reduction"

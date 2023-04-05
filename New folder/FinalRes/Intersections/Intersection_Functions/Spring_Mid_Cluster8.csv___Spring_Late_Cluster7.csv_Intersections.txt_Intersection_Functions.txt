@@ -1,0 +1,7 @@
+"Genus" "Function"
+"1" "Lactobacillus" "chemoheterotrophy"
+"2" "Lactobacillus" "fermentation"
+"3" "Lactobacillus" "animal_parasites_or_symbionts"
+"4" "Lactobacillus" "human_associated"
+"5" "Lactobacillus" "human_gut"
+"6" "Lactobacillus" "mammal_gut"

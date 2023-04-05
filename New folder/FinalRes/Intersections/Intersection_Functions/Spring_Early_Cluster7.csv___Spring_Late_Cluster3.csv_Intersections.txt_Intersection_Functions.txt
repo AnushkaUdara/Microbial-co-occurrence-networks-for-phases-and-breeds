@@ -1,0 +1,3 @@
+"Genus" "Function"
+"1" "Barnesiella" "chemoheterotrophy"
+"2" "Barnesiella" "fermentation"

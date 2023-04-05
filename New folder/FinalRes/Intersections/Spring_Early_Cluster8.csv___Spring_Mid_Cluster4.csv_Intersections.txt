@@ -1,0 +1,6 @@
+"Roseburia"
+"Kurthia"
+"Sporobacter"
+"Bacteria_Firmicutes_Clostridia_Clostridiales_Ruminococcaceae_Bacteroides"
+"Oscillospira"
+"Akkermansia"

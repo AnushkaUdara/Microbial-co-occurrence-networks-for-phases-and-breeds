@@ -1,0 +1,4 @@
+"Genus" "Function"
+"1" "Deinococcus" "nitrate_reduction"
+"2" "Novosphingobium" "aerobic_chemoheterotrophy"
+"3" "Novosphingobium" "chemoheterotrophy"

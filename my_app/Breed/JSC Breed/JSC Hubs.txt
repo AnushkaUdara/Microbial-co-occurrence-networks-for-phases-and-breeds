@@ -1,0 +1,11 @@
+Trueperella
+Serinibacter
+Millisia
+Kribbia
+Atopococcus
+GW-34
+ph2
+Lactonifactor
+[Clostridium]
+Bacteria_Firmicutes_Clostridia_Clostridiales_Ruminococcaceae_Clostridium
+Campylobacter

@@ -1,0 +1,11 @@
+Trueperella
+Prevotella
+Atopococcus
+Granulicatella
+GW-34
+ph2
+Roseburia
+Bacteria_Firmicutes_Clostridia_Clostridiales_Lachnospiraceae_Ruminococcus
+[Clostridium]
+Bacteria_Firmicutes_Clostridia_Clostridiales_Ruminococcaceae_Clostridium
+Succinispira

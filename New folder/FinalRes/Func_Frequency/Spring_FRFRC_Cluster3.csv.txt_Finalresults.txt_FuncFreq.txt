@@ -1,0 +1,13 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 35
+"animal_parasites_or_symbionts" 6
+"aromatic_compound_degradation" 31
+"chemoheterotrophy" 333
+"fermentation" 298
+"human_associated" 6
+"human_gut" 1
+"human_pathogens_all" 5
+"human_pathogens_diarrhea" 5
+"invertebrate_parasites" 5
+"mammal_gut" 1
+"nitrate_reduction" 12

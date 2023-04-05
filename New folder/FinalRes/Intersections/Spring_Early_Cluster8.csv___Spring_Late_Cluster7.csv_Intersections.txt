@@ -1,0 +1,6 @@
+"Succinispira"
+"Roseburia"
+"Alistipes"
+"Bacteria_Firmicutes_Clostridia_Clostridiales_Lachnospiraceae_Clostridium"
+"Sporobacter"
+"Akkermansia"

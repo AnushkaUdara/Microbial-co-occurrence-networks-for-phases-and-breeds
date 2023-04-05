@@ -1,0 +1,5 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 35
+"aromatic_compound_degradation" 37
+"chemoheterotrophy" 213
+"fermentation" 141

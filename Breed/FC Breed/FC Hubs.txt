@@ -1,0 +1,5 @@
+Anaerococcus
+Trueperella
+Bacteria_Firmicutes_Clostridia_Clostridiales_Lachnospiraceae_Ruminococcus
+GW-34
+ph2

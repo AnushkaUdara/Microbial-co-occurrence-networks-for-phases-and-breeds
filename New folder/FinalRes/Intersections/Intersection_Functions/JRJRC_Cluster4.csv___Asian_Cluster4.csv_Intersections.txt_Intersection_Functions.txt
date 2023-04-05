@@ -1,0 +1,4 @@
+"Genus" "Function"
+"1" "Kribbia" "nitrate_reduction"
+"2" "Anaerobiospirillum" "chemoheterotrophy"
+"3" "Anaerobiospirillum" "fermentation"

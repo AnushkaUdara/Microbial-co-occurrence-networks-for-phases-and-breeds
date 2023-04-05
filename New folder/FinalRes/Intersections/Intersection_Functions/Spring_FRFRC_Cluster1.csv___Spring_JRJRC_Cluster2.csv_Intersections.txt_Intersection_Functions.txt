@@ -1,0 +1,7 @@
+"Genus" "Function"
+"1" "Flavobacterium" "aerobic_chemoheterotrophy"
+"2" "Flavobacterium" "chemoheterotrophy"
+"3" "Flavobacterium" "xylanolysis"
+"4" "Arcobacter" "animal_parasites_or_symbionts"
+"5" "Arcobacter" "human_associated"
+"6" "Arcobacter" "human_pathogens_all"

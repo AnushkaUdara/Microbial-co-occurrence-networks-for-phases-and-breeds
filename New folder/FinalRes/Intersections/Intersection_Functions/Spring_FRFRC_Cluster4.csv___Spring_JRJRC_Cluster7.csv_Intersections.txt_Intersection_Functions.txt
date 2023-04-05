@@ -1,0 +1,6 @@
+"Genus" "Function"
+"1" "Lactococcus" "chemoheterotrophy"
+"2" "Lactococcus" "fermentation"
+"3" "Nonlabens" "aerobic_chemoheterotrophy"
+"4" "Nonlabens" "chemoheterotrophy"
+"5" "Bdellovibrio" "predatory_or_exoparasitic"

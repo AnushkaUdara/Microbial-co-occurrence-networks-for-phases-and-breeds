@@ -1,0 +1,5 @@
+"Genus" "Function"
+"1" "Succinivibrio" "fermentation"
+"2" "Succinivibrio" "chemoheterotrophy"
+"3" "Psychrobacter" "aerobic_chemoheterotrophy"
+"4" "Psychrobacter" "chemoheterotrophy"

@@ -1,0 +1,13 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 36
+"aromatic_compound_degradation" 37
+"chemoheterotrophy" 134
+"dark_hydrogen_oxidation" 1
+"fermentation" 61
+"nitrate_ammonification" 31
+"nitrate_reduction" 35
+"nitrate_respiration" 31
+"nitrite_ammonification" 31
+"nitrite_respiration" 31
+"nitrogen_fixation" 1
+"nitrogen_respiration" 31

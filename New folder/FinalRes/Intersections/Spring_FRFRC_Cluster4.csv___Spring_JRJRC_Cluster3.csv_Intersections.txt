@@ -1,0 +1,8 @@
+"Streptococcus"
+"Elizabethkingia"
+"Acinetobacter"
+"Pseudoxanthomonas"
+"Pedobacter"
+"Alkanindiges"
+"Rhizobium"
+"Bacteria_Proteobacteria_Gammaproteobacteria_Pseudomonadales_Pseudomonadaceae_Pseudomonas"

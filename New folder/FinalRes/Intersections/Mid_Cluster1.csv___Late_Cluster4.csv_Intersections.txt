@@ -1,0 +1,7 @@
+"Streptococcus"
+"Kocuria"
+"Elizabethkingia"
+"Acinetobacter"
+"Bordetella"
+"Alkanindiges"
+"Rhizobium"

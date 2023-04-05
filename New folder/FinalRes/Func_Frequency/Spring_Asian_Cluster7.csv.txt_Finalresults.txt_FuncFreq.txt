@@ -1,0 +1,4 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 32
+"chemoheterotrophy" 32
+"nitrate_reduction" 8

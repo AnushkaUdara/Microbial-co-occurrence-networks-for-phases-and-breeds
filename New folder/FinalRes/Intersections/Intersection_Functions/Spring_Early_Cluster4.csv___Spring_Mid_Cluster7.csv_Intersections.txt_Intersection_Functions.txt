@@ -1,0 +1,3 @@
+"Genus" "Function"
+"1" "Nonlabens" "aerobic_chemoheterotrophy"
+"2" "Nonlabens" "chemoheterotrophy"

@@ -1,0 +1,8 @@
+"Genus" "Function"
+"1" "Succinispira" "chemoheterotrophy"
+"2" "Succinispira" "fermentation"
+"3" "Alistipes" "chemoheterotrophy"
+"4" "Alistipes" "fermentation"
+"5" "Sporobacter" "aromatic_compound_degradation"
+"6" "Sporobacter" "chemoheterotrophy"
+"7" "Sporobacter" "fermentation"

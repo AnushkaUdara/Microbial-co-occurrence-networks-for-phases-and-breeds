@@ -1,0 +1,11 @@
+"Var1" "Freq"
+"aerobic_chemoheterotrophy" 112
+"animal_parasites_or_symbionts" 90
+"aromatic_compound_degradation" 65
+"chemoheterotrophy" 112
+"dark_hydrogen_oxidation" 1
+"human_associated" 74
+"human_pathogens_all" 74
+"nitrate_reduction" 85
+"nitrogen_fixation" 1
+"ureolysis" 80

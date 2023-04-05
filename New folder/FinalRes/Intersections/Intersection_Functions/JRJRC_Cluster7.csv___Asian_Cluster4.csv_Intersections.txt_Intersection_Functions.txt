@@ -1,0 +1,4 @@
+"Genus" "Function"
+"1" "Arcobacter" "animal_parasites_or_symbionts"
+"2" "Arcobacter" "human_associated"
+"3" "Arcobacter" "human_pathogens_all"

@@ -1,0 +1,8 @@
+"Genus" "Function"
+"1" "Kribbia" "nitrate_reduction"
+"2" "Flavobacterium" "aerobic_chemoheterotrophy"
+"3" "Flavobacterium" "chemoheterotrophy"
+"4" "Flavobacterium" "xylanolysis"
+"5" "Arcobacter" "animal_parasites_or_symbionts"
+"6" "Arcobacter" "human_associated"
+"7" "Arcobacter" "human_pathogens_all"

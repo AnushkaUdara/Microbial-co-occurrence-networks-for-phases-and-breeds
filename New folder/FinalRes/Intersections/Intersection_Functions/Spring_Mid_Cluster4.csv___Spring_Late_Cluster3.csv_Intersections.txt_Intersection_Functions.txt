@@ -1,0 +1,5 @@
+"Genus" "Function"
+"1" "Psychrobacter" "aerobic_chemoheterotrophy"
+"2" "Psychrobacter" "chemoheterotrophy"
+"3" "Barnesiella" "chemoheterotrophy"
+"4" "Barnesiella" "fermentation"

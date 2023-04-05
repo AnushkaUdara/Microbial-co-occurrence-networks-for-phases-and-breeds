@@ -1,0 +1,4 @@
+"Genus" "Function"
+"1" "Bordetella" "animal_parasites_or_symbionts"
+"2" "Brevibacterium" "aerobic_chemoheterotrophy"
+"3" "Brevibacterium" "chemoheterotrophy"

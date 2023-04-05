@@ -1,0 +1,6 @@
+"Genus" "Function"
+"1" "Staphylococcus" "animal_parasites_or_symbionts"
+"2" "Staphylococcus" "human_associated"
+"3" "Staphylococcus" "human_pathogens_all"
+"4" "Staphylococcus" "nitrate_reduction"
+"5" "Staphylococcus" "ureolysis"

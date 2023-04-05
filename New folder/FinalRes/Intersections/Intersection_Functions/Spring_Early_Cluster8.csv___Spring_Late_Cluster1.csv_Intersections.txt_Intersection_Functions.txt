@@ -1,0 +1,4 @@
+"Genus" "Function"
+"1" "Weissella" "chemoheterotrophy"
+"2" "Weissella" "fermentation"
+"3" "Oscillospira" "mammal_gut"

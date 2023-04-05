@@ -1,0 +1,7 @@
+"Var1" "Freq"
+"animal_parasites_or_symbionts" 17
+"chemoheterotrophy" 70
+"fermentation" 70
+"human_associated" 17
+"human_gut" 17
+"mammal_gut" 17

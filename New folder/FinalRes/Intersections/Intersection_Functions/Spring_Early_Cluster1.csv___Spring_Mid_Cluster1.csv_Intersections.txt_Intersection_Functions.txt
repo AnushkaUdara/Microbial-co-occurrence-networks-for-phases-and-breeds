@@ -1,0 +1,2 @@
+"Genus" "Function"
+"1" "Kribbia" "nitrate_reduction"

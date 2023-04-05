@@ -1,0 +1,16 @@
+"Var1" "Freq"
+"animal_parasites_or_symbionts" 17
+"chemoheterotrophy" 64
+"dark_hydrogen_oxidation" 2
+"dark_sulfite_oxidation" 2
+"fermentation" 64
+"human_associated" 17
+"human_gut" 17
+"mammal_gut" 17
+"nitrate_reduction" 3
+"nitrate_respiration" 3
+"nitrogen_respiration" 3
+"respiration_of_sulfur_compounds" 19
+"sulfate_respiration" 19
+"sulfur_respiration" 2
+"thiosulfate_respiration" 2

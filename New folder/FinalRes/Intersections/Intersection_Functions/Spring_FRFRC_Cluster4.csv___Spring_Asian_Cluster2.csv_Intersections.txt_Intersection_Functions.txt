@@ -1,0 +1,8 @@
+"Genus" "Function"
+"1" "Streptococcus" "chemoheterotrophy"
+"2" "Streptococcus" "fermentation"
+"3" "Streptococcus" "animal_parasites_or_symbionts"
+"4" "Streptococcus" "human_associated"
+"5" "Streptococcus" "human_pathogens_all"
+"6" "Streptococcus" "human_pathogens_meningitis"
+"7" "Streptococcus" "human_pathogens_septicemia"
